@@ -2,6 +2,8 @@
 This website collects and visualises global volcanic data, we hope users could enjoy the journey of exploring volcanic data. 
 We have prepared various interactive graphs and abundant volcano datasets. We hope you can enjoy the process of interacting with them!
 ### [Intro Video](https://media.ed.ac.uk/media/Renaissance_Beta_Video/1_rbj0phg1)
+![image](https://github.com/alancccc8/Global-Volcanic-Data-Website/assets/93360333/fe4d79c9-e484-483c-8605-b732709ac94a)
+
 ### Co-authors: Liuyang Chen, Zehuan Wang, Shutong Liu
 This website is divided into four parts.
 In the first part, users can acquire basic knowledge about the website and volcano types.
